@@ -62,8 +62,10 @@ I write about practical workflows in MLOps, AI deployment, and tooling:
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=varunnarsna&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunnarsna&layout=compact&theme=radical)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunnarsana&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunnarsana&layout=compact&theme=radical)
+
 
 ---
 
