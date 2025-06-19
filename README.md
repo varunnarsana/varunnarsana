@@ -1,66 +1,51 @@
-# 👋 Hi, I'm Varun Narsana
+# 👋 Hey, I'm Varun Narsana
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/varun-narsana)
-[![Email](https://img.shields.io/badge/Email-varunnarsana@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:varunvn353@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/varunnarsana)
+[![Email](https://img.shields.io/badge/Email-varunvn353@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:varunvn353@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/varunnnarsana)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@varunnarsana)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://varunnarsana.hashnode.dev)
 
 ---
 
-I'm a developer focused on **MLOps, DevOps, and AI system engineering**. I enjoy building efficient, scalable workflows to move machine learning models from development to production with confidence.
+## 🧠 A Little About Me
+
+Hey, I'm Varun — a tech enthusiast with a growing interest in **AI**, **DevOps**, and tools from the **CNCF ecosystem**.  
+
+I enjoy building systems that take machine learning models from development to production, and I'm currently focused on improving my skills in deployment, automation, and monitoring.
+
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ What I Work With
 
-**MLOps & DevOps**  
-🔹 Docker · Kubernetes · Terraform · Prometheus · Grafana  
-🔹 GitHub Actions · CI/CD · Helm · MLflow · ONNX  
+**Dev & Ops**  
+🧱 Docker · ☸️ Kubernetes · 🌍 Terraform · 📈 Prometheus + Grafana  
+🔁 CI/CD · GitHub Actions · MLflow · ONNX · Helm
 
-**Machine Learning**  
-🔹 TensorFlow · PyTorch · Scikit-learn  
-🔹 Model Deployment · Drift Detection · Data Pipelines  
+**ML Stuff**  
+🧠 TensorFlow · PyTorch · Scikit-learn  
+📦 Model Deployment · Drift Detection · Data Pipelines
 
-**Backend & APIs**  
-🔹 FastAPI · Flask · Node.js · PostgreSQL · MongoDB  
+**Backend & Infra**  
+⚡ FastAPI · Flask · Node.js · PostgreSQL · MongoDB
 
-**Frontend**  
-🔹 HTML · CSS · JavaScript · React  
-
----
-
-## 💼 Featured Projects
-
-### 🔧 InfeOps: End-to-End MLOps Platform  
-> Platform for deploying, scaling, and monitoring ML models  
-- Supports ONNX & TensorFlow  
-- CI/CD with GitHub Actions  
-- Deployed via Kubernetes & Terraform on AWS
-
-### 🎵 Smart Music Playlist Recommender  
-> Personalized music recommendations using collaborative filtering  
-- Python · Pandas · Surprise library  
-- Cold-start optimization
-
-### 🧪 Real-Time Material Quality Detection  
-> CNN-based visual inspection system  
-- Live image processing with OpenCV  
-- Deployed classification model with monitoring
+**Frontend (just enough to get things working 😄)**  
+HTML · CSS · JavaScript · React
 
 ---
 
-## ✍️ Blogs & Articles
+## ✍️ I Occasionally Blog (When I'm Not Debugging)
 
-I write about practical workflows in MLOps, AI deployment, and tooling:
+🛠️ [MLOps Pipeline with FastAPI & Docker](https://medium.com/@varunnarsana)  
+🚀 [From Notebook to Prod: ML Deployment 101](https://varunnarsana.hashnode.dev)  
+🔐 [OAuth + K8s Secrets = Safe ML APIs](https://medium.com/@varunnarsana)
 
-- 📘 [Building Your First MLOps Pipeline with FastAPI & Docker](https://medium.com/@varunnarsana) *(Medium)*
-- ⚙️ [From Jupyter to Production: ML Model Deployment Simplified](https://varunnarsana.hashnode.dev) *(Hashnode)*
-- 🔐 [Securing ML APIs with OAuth & Kubernetes Secrets](https://medium.com/@varunnarsana)
-
-> 🔗 More at [Medium](https://medium.com/@varunnarsana) & [Hashnode](https://varunnarsana.hashnode.dev)
+> More on [Medium](https://medium.com/@varunnarsana) & [Hashnode](https://varunnarsana.hashnode.dev)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunnarsana&show_icons=true&theme=radical)
 
@@ -69,22 +54,23 @@ I write about practical workflows in MLOps, AI deployment, and tooling:
 
 ---
 
-## 🔍 Currently Exploring
-- Kubernetes Operators for ML  
-- Secure & Scalable Model Serving  
-- Multi-cloud MLOps Workflows
+## 🎧 Outside of Tech
+
+When I’m not building or debugging, I enjoy following **football**, with a strong passion for **Liverpool FC**.  
+I have a deep interest in **space and astronomy**, often exploring missions, cosmic phenomena, and the unknown beyond Earth.  
+And music — it’s more than just sound to me. It’s an escape. Whether it's lofi, ambient, or indie, it helps me focus, reset, and stay inspired.
+  
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 varunnarsana@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/varun-narsana)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/varunnarsana)
-
-📰 [Medium](https://medium.com/@varunnarsana)  
-📓 [Hashnode](https://varunnarsana.hashnode.dev)
+📬 varunvn353@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/varun-narsana)  
+🐦 [Twitter / X](https://twitter.com/varunnnarsana)  
+🧠 [Medium](https://medium.com/@varunnarsana)  
+💻 [Hashnode](https://varunnarsana.hashnode.dev)
 
 ---
 
-⭐️ *Thanks for stopping by!*
+### 👀 Thanks for checking out my corner of GitHub!
