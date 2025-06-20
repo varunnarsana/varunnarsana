@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/varun-narsana)
 [![Email](https://img.shields.io/badge/Email-varunvn353@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:varunvn353@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/varunnnarsana)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/varunnarsana)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@varunnarsana)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://varunnarsana.hashnode.dev)
 
@@ -67,7 +67,7 @@ And music — it’s more than just sound to me. It’s an escape. Whether it's 
 
 📬 varunvn353@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/varun-narsana)  
-🐦 [Twitter / X](https://twitter.com/varunnnarsana)  
+🐦 [Twitter / X](https://twitter.com/varunnarsana)  
 🧠 [Medium](https://medium.com/@varunnarsana)  
 💻 [Hashnode](https://varunnarsana.hashnode.dev)
 
