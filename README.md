@@ -24,7 +24,7 @@ I enjoy building systems that take machine learning models from development to p
 🔁 CI/CD · GitHub Actions · MLflow · ONNX · Helm
 
 **ML Stuff**  
-🧠 TensorFlow · PyTorch · Scikit-learn  
+🧠 TensorFlow · PyTorch · Scikit-learn   Machine Learning   Natual-Language-Processing   Neural Networks
 📦 Model Deployment · Drift Detection · Data Pipelines
 
 **Backend & Infra**  
