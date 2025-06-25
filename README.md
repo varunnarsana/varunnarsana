@@ -10,7 +10,7 @@
 
 ## 🧠 A Little About Me
 
-Hey, I'm Varun — a tech enthusiast with a growing interest in **AI**, **DevOps**, and tools from the **CNCF ecosystem**.  
+Hey, I'm Varun — a tech enthusiast with a growing interest in **AI**, **DevOps**, **Robotics** and tools from the **CNCF ecosystem**.  
 
 I enjoy building systems that take machine learning models from development to production, and I'm currently focused on improving my skills in deployment, automation, and monitoring.
 
