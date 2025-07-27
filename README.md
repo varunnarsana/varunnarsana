@@ -3,7 +3,7 @@
 into ai, ml, robotics, cloud stuff.  
 building things, figuring stuff out, writing when it feels right.
 
-check out my [website](https://portfolio-woad-eight-25.vercel.app/)  
+check out my [website](https://varunnarsana.vercel.app/)  
 or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
 
 ---
