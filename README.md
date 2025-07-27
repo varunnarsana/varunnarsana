@@ -1,7 +1,6 @@
 # hey, i'm varun 👋
 
-into ai, ml, robotics, cloud stuff.  
-building things, figuring stuff out, writing when it feels right.
+mostly building with ml, cloud, and cncf-related things. figuring things out as i go. writing when it makes sense.
 
 check out my [website](https://varunnarsana.vercel.app/)  
 or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
