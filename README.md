@@ -16,5 +16,4 @@ or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
 
 ---
 
-also: liverpool on weekends, rohit when he’s flowing, federer reruns, sinner’s rise.  
-nature when the city's loud. grass under bare feet. violin sometimes. currently: sitar.  
+skiing, surfing, piano, violin. big fan of john john florence and federer.  
