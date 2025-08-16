@@ -11,7 +11,7 @@ or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
 
 [![Email](https://img.shields.io/badge/email-grey?style=flat&logo=gmail&logoColor=white)](mailto:varunvn353@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/varunnarsana)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/varunnarsana)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/varun_narsana)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/varunnarsana/)
 
 ---
