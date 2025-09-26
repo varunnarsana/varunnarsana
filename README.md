@@ -16,4 +16,4 @@ or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
 
 ---
 
-skiing, surfing, piano, violin. big fan of john john florence and federer.  
+
