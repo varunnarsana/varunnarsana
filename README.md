@@ -1,7 +1,5 @@
 # hey, i'm varun 👋
 
-mostly building with ml, figuring things out as i go. writing when it makes sense.
-
 check out my [website](https://varunnarsana.vercel.app/)  
 or a few [blogs](https://hashnode.com/@varunnarsana), if you're bored.
 
